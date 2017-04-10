@@ -16,7 +16,7 @@ class Db{
 	}
 	
 	private $_dbConfig = array(
-	   'host' => '127.01.0.1',
+	   'host' => '127.0.0.1',
 	   'user' =>'root',
 	   'password' => 'root',
 	   'database' =>'test'
