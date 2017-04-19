@@ -10,4 +10,4 @@ require_once('./response.php');
        Response::show(200,'success',$data);
 echo "this is app";
 
-    var_dump($data);
+
