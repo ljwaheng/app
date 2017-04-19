@@ -7,4 +7,6 @@ require_once('./response.php');
 			'title' =>array(5,2,1)
 		);
 		
-		Response::show(200,'success',$data£¬$type="xml");
+       Response::show(200,'success',$data);
+    echo "this is app";
+
